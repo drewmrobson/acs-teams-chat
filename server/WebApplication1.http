@@ -1,0 +1,6 @@
+@WebApplication1_HostAddress = http://localhost:5095
+
+POST {{WebApplication1_HostAddress}}/meeting/
+Accept: application/json
+
+###
